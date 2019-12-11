@@ -8,3 +8,8 @@ ___
 
 I encourage @2nji and @abdulloooh to share their progress for the day!
 ___
+ ## D2 (12-10-19)
+- Completed lesson 13 and started lesson 14 of the Cloud Challenge
+
+I encourage @Abisola and @Adeleye Adewale to share their progress for the day!
+___
