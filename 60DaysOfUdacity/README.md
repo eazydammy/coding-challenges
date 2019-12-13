@@ -18,3 +18,9 @@ ___
 
 I encourage @Ademola Kunmi and @Adenle Abiodun to share their progress for the day!
 ___
+ ## D4 (12-12-19)
+- Completed lesson 14 of the Cloud Challenge
+- Stumbled on error deleting S3 buckets created by Elastic Beanstalk but found a solution was to the bucket policy first
+
+I encourage @Adeoye Adela and @Adetoun to share their progress for the day!
+___
