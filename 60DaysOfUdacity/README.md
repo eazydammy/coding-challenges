@@ -25,3 +25,10 @@ ___
 
 I encourage @Adeoye Adela and @Adetoun to share their progress for the day!
 ___
+ ## D5 (12-13-19)
+- Completed lesson 15 of the Cloud Challenge
+- Got into the Intel Edge AI Scholarship Challenge
+- Watched first video in the Intel course
+
+I encourage @Adewale Olaore and @Aisha to share their progress for the day!
+___
