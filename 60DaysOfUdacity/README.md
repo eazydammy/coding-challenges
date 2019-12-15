@@ -32,3 +32,9 @@ ___
 
 I encourage @Adewale Olaore and @Aisha to share their progress for the day!
 ___
+ ## D6 (12-14-19)
+- Completed lesson 16 of the Cloud Challenge
+- Watched the second video in the Intel course
+
+I encourage @AKINOLA Victor and @Alexander Garuba to share their progress for the day!
+___
