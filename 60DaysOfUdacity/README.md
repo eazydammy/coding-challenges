@@ -38,3 +38,9 @@ ___
 
 I encourage @AKINOLA Victor and @Alexander Garuba to share their progress for the day!
 ___
+ ## D7 (12-15-19)
+- Completed lesson 17 of the Cloud Challenge
+- Watched the third video in the Intel course
+
+I encourage @A3AJAGBE and @anu to share their progress for the day!
+___
