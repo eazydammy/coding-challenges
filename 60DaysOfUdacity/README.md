@@ -44,5 +44,11 @@ ___
 
 I encourage @A3AJAGBE and @anu to share their progress for the day!
 ___
-## Missed Day
+## Missed Day (12-16-19)
+___
+ ## D8 (12-17-19)
+- Started Part 3 of the Cloud Challenge, and watched 73% of Lesson 18
+- Watched the fourth video in the Intel course
+
+I encourage @Ayobami Fatanmi and @Babatunde Olusola to share their progress for the day!
 ___
