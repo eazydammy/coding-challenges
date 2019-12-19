@@ -52,3 +52,9 @@ ___
 
 I encourage @Ayobami Fatanmi and @Babatunde Olusola to share their progress for the day!
 ___
+ ## D9 (12-18-19)
+- Completed remaining lessons and labs in Lesson 18, started lesson 19 of the Cloud Challenge
+- Watched the fifth video in the Intel course
+
+I encourage @Bakare Peace and @Benita Ojugo Ekene-Okikere to share their progress for the day!
+___
