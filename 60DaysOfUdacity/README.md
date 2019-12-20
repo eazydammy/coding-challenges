@@ -58,3 +58,9 @@ ___
 
 I encourage @Bakare Peace and @Benita Ojugo Ekene-Okikere to share their progress for the day!
 ___
+ ## D10 (12-19-19)
+- Completed 74% of lesson 19 in the Cloud Challenge
+- Read the recommended article explaining the CI/CD process
+
+I encourage @Bolaji Adetoye and @Bonat to share their progress for the day!
+___
