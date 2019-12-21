@@ -64,3 +64,9 @@ ___
 
 I encourage @Bolaji Adetoye and @Bonat to share their progress for the day!
 ___
+ ## D10 (12-20-19)
+- Completed lesson 19 in the Cloud Challenge
+- Completed lesson 1 in the Intel course
+
+I encourage @Chiazokam Echeta and @Chidinma Godwin to share their progress for the day!
+___
