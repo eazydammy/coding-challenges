@@ -70,3 +70,9 @@ ___
 
 I encourage @Chiazokam Echeta and @Chidinma Godwin to share their progress for the day!
 ___
+ ## D12 (12-21-19)
+- Reviewed lesson 1 in the Intel course
+- Started lesson 2 and completed until 37% until I got stuck at the exercise
+
+I encourage @Chimezie.Ogbuu and @Chukwuemekanweke to share their progress for the day!
+___
