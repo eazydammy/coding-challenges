@@ -77,7 +77,7 @@ ___
 I encourage @Chimezie.Ogbuu and @Chukwuemekanweke to share their progress for the day!
 ___
  ## D13 (12-22-19)
-- Continued lesson 2, watched a couple of videos and completed two exercises involving downloading pretrained OpenVINO models and pre-processing inputs
+- Continued lesson 2 of the Intel course, watched a couple of videos and completed two exercises involving downloading pretrained OpenVINO models and pre-processing inputs
 
 I encourage @Cloud_ML_Engineer and @Codedkate to share their progress for the day!
 ___
