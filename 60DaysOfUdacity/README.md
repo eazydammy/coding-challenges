@@ -81,3 +81,9 @@ ___
 
 I encourage @Cloud_ML_Engineer and @Codedkate to share their progress for the day!
 ___
+ ## D14 (12-23-19)
+- Completed final exercise in lesson 2 of the Intel course involving deploying an app on the edge, thus finished the lesson
+- Started lesson 3 on Model Optimizer
+
+I encourage @Dammycloud and @David to share their progress for the day!
+___
