@@ -88,7 +88,7 @@ ___
 I encourage @Dammycloud and @David to share their progress for the day!
 ___
  ## D15 (12-24-19)
-- Continued lesson 3 on Model Optimizer and covered 40% in the lesson including the exercise on converting a TensorFlow Model into an Intermediate Representation for the OpenVINO Inference Engine using the Model Optimizer
+- Continued lesson 3 in the Intel Course on Model Optimizer and covered 40% in the lesson including the exercise on converting a TensorFlow Model into an Intermediate Representation for the OpenVINO Inference Engine using the Model Optimizer
 
 I encourage @David C and @Delaney to share their progress for the day!
 ___
