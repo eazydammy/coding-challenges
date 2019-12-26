@@ -92,3 +92,9 @@ ___
 
 I encourage @David C and @Delaney to share their progress for the day!
 ___
+ ## D16 (12-25-19)
+- Completed lesson 3 in the Intel Course except for the exercise on "Custom layers" where I could not set things up correctly
+- Began review of lesson 19 in the Cloud Challenge
+
+I encourage @Dimeji and @Don Ebi to share their progress for the day!
+___
