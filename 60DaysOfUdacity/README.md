@@ -98,3 +98,9 @@ ___
 
 I encourage @Dimeji and @Don Ebi to share their progress for the day!
 ___
+ ## D17 (12-26-19)
+ - Completed final exercise in lesson 3 of the Intel Course
+- Started and Completed lesson 4 in the Intel Course except for the exercise on "Integrate into an App" where I could not complete the code
+
+I encourage @Ebere Uzodufa and @Eje Joshua to share their progress for the day!
+___
