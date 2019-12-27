@@ -104,3 +104,9 @@ ___
 
 I encourage @Ebere Uzodufa and @Eje Joshua to share their progress for the day!
 ___
+ ## D18 (12-27-19)
+ - Completed final exercise in lesson 4 of the Intel Course
+- Started lesson 5 in the Intel Course; watched a couple of videos and completed first two exercises involving handling input streams and processing model outputs
+
+I encourage @Elvis and @Emeka Richard to share their progress for the day!
+___
