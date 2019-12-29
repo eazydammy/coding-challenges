@@ -110,7 +110,7 @@ ___
 
 I encourage @Elvis and @Emeka Richard to share their progress for the day!
 ___
- ## D18 (12-28-19)
+ ## D19 (12-28-19)
  - Completed final exercise and remaining lessons in the Intel Challenge Course
 
 I encourage @emmanuel ajaero and @Emmanuel Chukwu to share their progress for the day!
