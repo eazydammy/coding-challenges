@@ -115,3 +115,9 @@ ___
 
 I encourage @emmanuel ajaero and @Emmanuel Chukwu to share their progress for the day!
 ___
+ ## D20 (12-29-19)
+ - Continued review of lesson 19 in the Cloud Challenge
+ - Read the official guide to install OpenVINO on my local machine (https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_linux.html)
+
+I encourage @Eniwoke Cornelius and @Ezekiel Oladejo to share their progress for the day!
+___
