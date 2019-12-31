@@ -121,3 +121,9 @@ ___
 
 I encourage @Eniwoke Cornelius and @Ezekiel Oladejo to share their progress for the day!
 ___
+ ## D21 (12-30-19)
+ - Continued review of lesson 19 in the Cloud Challenge
+ - Started Udacity's "C++ for Programmers" course and completed Lesson 1
+
+I encourage @Fatima Sheikh and @Gabicle to share their progress for the day!
+___
