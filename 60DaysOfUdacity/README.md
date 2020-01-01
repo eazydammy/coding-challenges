@@ -127,3 +127,9 @@ ___
 
 I encourage @Fatima Sheikh and @Gabicle to share their progress for the day!
 ___
+ ## D22 (12-31-19)
+ - Returned to my CV Nanodegree and began reviewing the Lesson on RNN's
+ - Continued the "C++ for Programmers" course and completed Lessons 2 and 3
+
+I encourage @Gideon and @GMike to share their progress for the day!
+___
