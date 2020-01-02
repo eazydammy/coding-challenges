@@ -133,3 +133,9 @@ ___
 
 I encourage @Gideon and @GMike to share their progress for the day!
 ___
+ ## D23 (01-01-20)
+ - Completed _init_ and _forward_ methods for DecoderRNN model
+ - Completed Notebook 1 in _Image Captioning_ Project
+
+I encourage @Habeeb Olakunle and @han4xt to share their progress for the day!
+___
