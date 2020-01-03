@@ -139,3 +139,9 @@ ___
 
 I encourage @Habeeb Olakunle and @han4xt to share their progress for the day!
 ___
+ ## D24 (01-02-20)
+ - Completed notebook 2 on _Training CNN-RNN model_ in CVND
+ - Completed Lessons 1-3 in Module 4 _Object Tracking and Localization_ in CVND
+
+I encourage @Idrees and @Ifeanyi madu to share their progress for the day!
+___
