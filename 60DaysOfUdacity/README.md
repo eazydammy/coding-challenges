@@ -145,3 +145,10 @@ ___
 
 I encourage @Idrees and @Ifeanyi madu to share their progress for the day!
 ___
+ ## D25 (01-03-20)
+ - Completed CNN-RNN encoder-decoder model in CVND Project 2
+ - Completed notebook 3 on _Inference_ and submitted CVND Project 2
+ - Completed Lesson 4 and 50% of Lesson 5 in Module 4 _Object Tracking and Localization_ in CVND
+
+I encourage @Ifeoluwa Sobogun and @Ifeoma Udoye to share their progress for the day!
+___
