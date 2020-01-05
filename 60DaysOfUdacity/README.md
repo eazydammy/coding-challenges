@@ -152,3 +152,9 @@ ___
 
 I encourage @Ifeoluwa Sobogun and @Ifeoma Udoye to share their progress for the day!
 ___
+ ## D26 (01-03-20)
+ - Completed Lessons 5-7 in Module 4 _Object Tracking and Localization_ in CVND
+ - Completed notebook 1 and 2 in CVND Project 3
+
+I encourage @Ihu and @Ilori Temitayo to share their progress for the day!
+___
