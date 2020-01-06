@@ -158,3 +158,8 @@ ___
 
 I encourage @Ihu and @Ilori Temitayo to share their progress for the day!
 ___
+ ## D27 (01-05-20)
+ - Completed final notebook and submitted CVND Project 3
+
+I encourage @innociousBliss and @itssadon to share their progress for the day!
+___
