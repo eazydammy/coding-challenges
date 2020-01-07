@@ -163,3 +163,8 @@ ___
 
 I encourage @innociousBliss and @itssadon to share their progress for the day!
 ___
+ ## D28 (01-06-20)
+ - Resumed the "C++ for Programmers" course, completed  Lesson 4 - _Control Flow_
+
+I encourage @Jephthah and @John Key to share their progress for the day!
+___
