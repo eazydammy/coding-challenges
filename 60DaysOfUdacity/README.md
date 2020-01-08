@@ -168,3 +168,8 @@ ___
 
 I encourage @Jephthah and @John Key to share their progress for the day!
 ___
+ ## D29 (01-07-20)
+ - Completed Lessons 5-7 in the "C++ for Programmers" course
+
+I encourage @Kazeem Tijani and @Kehinde Faleye to share their progress for the day!
+___
