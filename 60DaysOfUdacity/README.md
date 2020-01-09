@@ -173,3 +173,8 @@ ___
 
 I encourage @Kazeem Tijani and @Kehinde Faleye to share their progress for the day!
 ___
+ ## D30 (01-08-20)
+ - Completed 50% of Lesson 8 on _Classes_ in the "C++ for Programmers" course.
+
+I encourage @Kenny Salaam and @kolade afeez to share their progress for the day!
+___
