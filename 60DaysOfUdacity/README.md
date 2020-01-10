@@ -178,3 +178,8 @@ ___
 
 I encourage @Kenny Salaam and @kolade afeez to share their progress for the day!
 ___
+ ## D31 (01-09-20)
+ - Completed Lesson 8 on _Classes_ in the "C++ for Programmers" course and started Lesson 9 on _Overloading_
+
+I encourage @Lateef_og and @Michael Mekuleyi to share their progress for the day!
+___
