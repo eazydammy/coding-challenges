@@ -183,3 +183,8 @@ ___
 
 I encourage @Lateef_og and @Michael Mekuleyi to share their progress for the day!
 ___
+ ## D32 (01-10-20)
+ - Completed Lesson 9 on _Overloading_ and Lesson 10 on _Templates_ in the "C++ for Programmers" course.
+
+I encourage @Mike Ajala and @Mudathir to share their progress for the day!
+___
