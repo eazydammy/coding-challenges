@@ -188,3 +188,8 @@ ___
 
 I encourage @Mike Ajala and @Mudathir to share their progress for the day!
 ___
+ ## D33 (01-11-20)
+ - Completed Lesson 11 on _Classes and Inheritance_ and Lesson 12 on _PolyMorphism_ in the "C++ for Programmers" course.
+
+I encourage @Mudathir and @Musharaf to share their progress for the day!
+___
