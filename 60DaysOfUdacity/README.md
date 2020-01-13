@@ -193,3 +193,8 @@ ___
 
 I encourage @Mudathir and @Musharaf to share their progress for the day!
 ___
+ ## D34 (01-12-20)
+ - Completed remaining lessons in the "C++ for Programmers" course including Lesson 13 on _Vectors and Iterators_, Lesson 14 _Interview Questions_ and Lesson 15 on _C++ Checkpoint_. Done! 
+
+I encourage @Nwobodo Leonard and @Obeta Ifeanyichukwu Malachy to share their progress for the day!
+___
