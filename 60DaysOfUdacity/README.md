@@ -198,3 +198,9 @@ ___
 
 I encourage @Nwobodo Leonard and @Obeta Ifeanyichukwu Malachy to share their progress for the day!
 ___
+ ## D35 (01-13-20)
+ - Completed 45% of Lesson 6 on _Convolutional Neural Networks_ in the "Intro to Deep Learning with PyTorch from Facebook" course.
+ - Trained a MLP to classify the MNIST dataset and got good results
+
+I encourage @Okerentie Ortisemisan David and @Oladapo Daniel to share their progress for the day!
+___
