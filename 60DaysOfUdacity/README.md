@@ -204,3 +204,8 @@ ___
 
 I encourage @Okerentie Ortisemisan David and @Oladapo Daniel to share their progress for the day!
 ___
+ ## D36 (01-14-20)
+ - Completed 70% of Lesson 6 on _Convolutional Neural Networks_ in the "Intro to Deep Learning with PyTorch from Facebook" course.
+
+I encourage @Oladiran Segun Solomon and @Olatunde Babawale to share their progress for the day!
+___
