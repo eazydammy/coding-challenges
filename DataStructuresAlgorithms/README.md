@@ -12,3 +12,6 @@ I would learning by using the following methods:
 ___
  ## D1 (01-13-20)
 - Read through pages 1-50 of the text. Such rigorous review of programming concepts in Python
+
+ ## D2 (01-14-20)
+- Completed Reinforcement Problems R-1.1 to 1.12, Creativity Problems C-1.13 to 1.28
