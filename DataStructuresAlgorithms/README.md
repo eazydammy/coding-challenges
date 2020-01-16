@@ -17,4 +17,4 @@ ___
 - Completed Reinforcement Problems R-1.1 to 1.12, Creativity Problems C-1.13 to 1.28
 
  ## D3 (01-15-20)
-- Completed Project Problems P-1.29 to 1.36, Staring Chapter 2 - _Object-Oriented Programming_ tomorrow
+- Completed Project Problems P-1.29 to 1.36, Starting Chapter 2 - _Object-Oriented Programming_ tomorrow
