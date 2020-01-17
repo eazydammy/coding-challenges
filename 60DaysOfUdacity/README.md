@@ -214,3 +214,8 @@ ___
 
 I encourage @Olatunde Paul and @Olawale Otubu to share their progress for the day!
 ___
+ ## D38 (01-16-20)
+ - Completed Lesson 6 on _Convolutional Neural Networks_ in the "Intro to Deep Learning with PyTorch from Facebook" course.
+
+I encourage @Olayiwola and @Olubukola Adeboye to share their progress for the day!
+___
