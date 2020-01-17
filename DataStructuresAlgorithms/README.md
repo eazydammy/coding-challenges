@@ -18,3 +18,6 @@ ___
 
  ## D3 (01-15-20)
 - Completed Project Problems P-1.29 to 1.36, Starting Chapter 2 - _Object-Oriented Programming_ tomorrow
+
+ ## D4 (01-16-20)
+- Completed reading Chapter 2 - _Object-Oriented Programming_ and Reinforcement Problems R-2.1 to 2.4
