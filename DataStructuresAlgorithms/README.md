@@ -21,3 +21,6 @@ ___
 
  ## D4 (01-16-20)
 - Completed reading Chapter 2 - _Object-Oriented Programming_ and Reinforcement Problems R-2.1 to 2.4
+
+ ## D5 (01-17-20)
+- Completed Reinforcement Problems R-2.5 to 2.23 of Chapter 2
