@@ -219,3 +219,8 @@ ___
 
 I encourage @Olayiwola and @Olubukola Adeboye to share their progress for the day!
 ___
+ ## D39 (01-17-20)
+ - Completed Lesson 7 on _Style Transfer_ in the "Intro to Deep Learning with PyTorch from Facebook" course.
+
+I encourage @Olufisayo and @Oluwaleke Tade to share their progress for the day!
+___
