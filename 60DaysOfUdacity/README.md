@@ -224,3 +224,11 @@ ___
 
 I encourage @Olufisayo and @Oluwaleke Tade to share their progress for the day!
 ___
+ ## D40 (01-18-20)
+ - Completed Lesson 8 on _Recurrent Neural Networks_ in the "Intro to Deep Learning with PyTorch from Facebook" course.
+ - Attended #sg_nigeria meetup with @Kazeem Tijani @Adetoun @Benita Ojugo Ekene-Okikere @Bolaji Adetoye @Onyedikachi Okwa @vahiwe @Mudathir Lawal @Uzodimma @vahiwe @Moses @Demilade @Codedkate @Mr. B.E @'Dotun Aremu @Ifeoma Udoye @John Adedigba @Tomi Arotiba
+
+![Pledge Form](images/sg_nigeria_1801.png)
+
+I encourage @Oluwaseun and @Oluwaseyi Falodun to share their progress for the day!
+___
