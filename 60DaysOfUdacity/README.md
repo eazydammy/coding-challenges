@@ -232,3 +232,8 @@ ___
 
 I encourage @Oluwaseun and @Oluwaseyi Falodun to share their progress for the day!
 ___
+ ## D41 (01-19-20)
+ - Started Lesson 9 (and completed 23%) of _Sentiment Prediction and RNNs_ in the "Intro to Deep Learning with PyTorch from Facebook" course.
+
+I encourage @Oluwole and @Onyedikachi Okwa to share their progress for the day!
+___
