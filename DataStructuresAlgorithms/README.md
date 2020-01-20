@@ -25,7 +25,7 @@ ___
  ## D5 (01-17-20)
 - Completed Reinforcement Problems R-2.5 to 2.23 of Chapter 2
 
- ## D6 (01-17-20)
+ ## D6 (01-18-20)
 - Participated in #StudyJam 1
 
  ## D7 (01-19-20)
