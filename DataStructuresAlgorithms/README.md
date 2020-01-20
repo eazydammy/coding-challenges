@@ -24,3 +24,6 @@ ___
 
  ## D5 (01-17-20)
 - Completed Reinforcement Problems R-2.5 to 2.23 of Chapter 2
+
+ ## D6 (01-18-20)
+- Completed Creativity Problems C-2.24 to 2.32 of Chapter 2
