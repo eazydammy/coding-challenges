@@ -237,3 +237,9 @@ ___
 
 I encourage @Oluwole and @Onyedikachi Okwa to share their progress for the day!
 ___
+ ## D42 (01-20-20)
+ - Completed Lesson 9 on _Sentiment Prediction and RNNs_ and Lesson 10 on _Deploying PyTorch models_ thus finishing 100% of the "Intro to Deep Learning with PyTorch from Facebook" course.
+ - It's Day 42 (42/60 = 70%). I never knew I would be able to stay this consistent. Thanks to such energetic community here.
+
+I encourage @Opeyemi Olabode and @Paul to share their progress for the day!
+___
