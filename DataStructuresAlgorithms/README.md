@@ -30,3 +30,6 @@ ___
 
  ## D7 (01-19-20)
 - Completed Creativity Problems C-2.24 to 2.32 of Chapter 2
+
+ ## D8 (01-20-20)
+- Completed Project Problems C-2.33 to 2.35 of Chapter 2
