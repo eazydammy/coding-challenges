@@ -243,3 +243,10 @@ ___
 
 I encourage @Opeyemi Olabode and @Paul to share their progress for the day!
 ___
+ ## D43 (01-21-20)
+ - Returned to lesson 19 in the Cloud Challenge on _Getting Started with CloudFormation_ and created my VPC from terminal and also SSH'ed into my EC2 instance using the AWS CLI tool.
+ - Started lesson 20 on "Infrastructure Diagrams" and completed 36% of the contents.
+ - Organized daily quiz in the #sg_nigeria channel, and it was interesting, to say the least.
+
+I encourage @Peterproxy and @Raphael Etim to share their progress for the day!
+___
