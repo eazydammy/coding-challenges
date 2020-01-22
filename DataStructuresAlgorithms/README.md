@@ -33,3 +33,6 @@ ___
 
  ## D8 (01-20-20)
 - Completed Project Problems C-2.33 to 2.35 of Chapter 2
+
+ ## D9 (01-21-20)
+- Started Project Problem C-2.35 of Chapter 2. Built the required classes and major methods. Left with setting up methods for colliding animals and dying fishes. This should be completed tomorrow.
