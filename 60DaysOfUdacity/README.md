@@ -250,3 +250,9 @@ ___
 
 I encourage @Peterproxy and @Raphael Etim to share their progress for the day!
 ___
+ ## D44 (01-22-20)
+ - Completed 64% of lesson 20 on "Infrastructure Diagrams".
+ - Particpated in daily quiz in the #sg_nigeria channel. It was very interesting, tricky enough to show me I need to revise the GIT concepts learned earlier.
+
+I encourage @RasheedK and @Russell Nyorere to share their progress for the day!
+___
