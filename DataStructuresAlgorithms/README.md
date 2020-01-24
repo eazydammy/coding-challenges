@@ -39,3 +39,6 @@ ___
 
  ## D10 (01-22-20)
 - Completed Project Problems P-2.35 to 2.39, Starting Chapter 3 - _Algorithm Analysis_ later today
+
+ ## D11 (01-23-20)
+- Started Chapter 3, Read through pages 109-121 of the text.
