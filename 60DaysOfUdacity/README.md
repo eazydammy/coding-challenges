@@ -256,3 +256,9 @@ ___
 
 I encourage @RasheedK and @Russell Nyorere to share their progress for the day!
 ___
+ ## D45 (01-23-20)
+ - Completed 82% of lesson 20 on "Infrastructure Diagrams".
+ - Particpated in daily quiz in the #sg_nigeria channel. It was very interesting, tricky enough to show me I need to revise the GIT concepts learned earlier. Thanks to @vahiwe and big shoutouts to @Kazeem Tijani @Benita Ojugo Ekene-Okikere @Onyedikachi Okwa @Mudathir Lawal @Adetoun @Bolaji Adetoye @Gabicle @Olufisayo @toboint and everyone one else. Let's keep this going! :muscle: :flag-ng: 
+
+I encourage @Sadiq and @sekinah to share their progress for the day!
+___
