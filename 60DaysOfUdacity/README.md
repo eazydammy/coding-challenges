@@ -262,3 +262,9 @@ ___
 
 I encourage @Sadiq and @sekinah to share their progress for the day!
 ___
+ ## D46 (01-24-20)
+ - Completed lesson 20 on "Infrastructure Diagrams".
+ - Particpated in daily quiz in the #sg_nigeria channel. It was very interesting, tricky enough to show me I need to revise the LINUX SHELL concepts learned earlier.
+
+I encourage @show and @Sir_LIGHTON to share their progress for the day!
+___
