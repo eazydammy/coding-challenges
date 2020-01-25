@@ -42,3 +42,6 @@ ___
 
  ## D11 (01-23-20)
 - Started Chapter 3, Read through pages 109-121 of the text.
+
+ ## D12 (01-24-20)
+- Read through pages 121-136 of Chapter 3
