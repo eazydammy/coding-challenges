@@ -45,3 +45,6 @@ ___
 
  ## D12 (01-24-20)
 - Read through pages 121-136 of Chapter 3
+
+ ## D13 (01-25-20)
+- Completed remaining pages in Chapter 3. Completed Reinforcement Problems R-3.1 to 3.8
