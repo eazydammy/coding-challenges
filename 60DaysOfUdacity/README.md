@@ -268,3 +268,9 @@ ___
 
 I encourage @show and @Sir_LIGHTON to share their progress for the day!
 ___
+ ## D47 (01-25-20)
+ - Returned to the Intel Edge AI course and reviewed Lesson 3. 
+ - Facilitated the weekly webinar in the #sg_nigeria channel. It was exciting reviewing concepts on Model Optimizer, Intermediate Representation and Custom layers.
+
+I encourage @Sixtus and @Taiwo Adeleke to share their progress for the day!
+___
