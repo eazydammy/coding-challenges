@@ -48,3 +48,6 @@ ___
 
  ## D13 (01-25-20)
 - Completed remaining pages in Chapter 3. Completed Reinforcement Problems R-3.1 to 3.8
+
+ ## D14 (01-26-20)
+- Participated in #StudyJam 2
