@@ -9,3 +9,7 @@ ___
 
 ![#sg_nigeria Webinar](images/sg_nigeria_webinar_1.png)
 ___
+ ## D2 (01-26-20)
+ - Reviewed contents in Lesson 3. 
+
+___
