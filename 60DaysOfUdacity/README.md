@@ -274,3 +274,8 @@ ___
 
 I encourage @Sixtus and @Taiwo Adeleke to share their progress for the day!
 ___
+ ## D48 (01-26-20)
+ - Reviewed Lesson  4 of the Intel Edge AI course
+
+I encourage @timi and @toboint to share their progress for the day!
+___
