@@ -11,5 +11,7 @@ ___
 ___
  ## D2 (01-26-20)
  - Reviewed contents in Lesson 4. 
-
+___
+ ## D3 (01-27-20)
+ - Reviewed contents in Lesson 5. 
 ___
