@@ -51,3 +51,6 @@ ___
 
  ## D14 (01-26-20)
 - Participated in #StudyJam 2
+
+ ## D15 (01-27-20)
+- Completed Project Problems P-3.29 to 3.34
