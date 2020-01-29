@@ -54,3 +54,6 @@ ___
 
  ## D15 (01-27-20)
 - Completed Project Problems P-3.29 to 3.34
+
+ ## D16 (01-28-20)
+- Completed Project Problems P-3.23 to 3.27
