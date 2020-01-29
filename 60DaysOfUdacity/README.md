@@ -284,3 +284,8 @@ ___
 
 I encourage @Tomi Arotiba and @tonespy to share their progress for the day!
 ___
+ ## D50 (01-28-20)
+ - Reviewed Lesson 2 of the Intel Edge AI course
+
+I encourage @usmanoa and @Uzodimma to share their progress for the day!
+___
