@@ -18,3 +18,6 @@ ___
  ## D4 (01-28-20)
  - Reviewed contents in Lesson 2. 
 ___
+ ## D5 (01-29-20)
+ - Reviewed contents in Lesson 1. 
+___
