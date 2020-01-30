@@ -294,5 +294,5 @@ ___
  - Reviewed Lesson 1 of the Intel Edge AI course
  - Particpated in daily quiz in the #sg_nigeria channel. It was very interesting, tricky enough to show me I need to revise the AWS concepts learned earlier.
 
-I encourage @usmanoa and @Uzodimma to share their progress for the day!
+I encourage @vahiwe and @wisestMe to share their progress for the day!
 ___
