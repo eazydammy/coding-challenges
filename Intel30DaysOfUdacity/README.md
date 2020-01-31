@@ -21,3 +21,7 @@ ___
  ## D5 (01-29-20)
  - Reviewed contents in Lesson 1. 
 ___
+ ## D6 (01-30-20)
+ - Reviewed Ubuntu installation guide: https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_apt.html
+ - Planning to install on my local machine tomorrow
+___
