@@ -296,3 +296,9 @@ ___
 
 I encourage @vahiwe and @wisestMe to share their progress for the day!
 ___
+ ## D52 (01-30-20)
+ - Reviewed OpenVINO Ubuntu installation guide: https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_apt.html
+ - Particpated in daily quiz in the #sg_nigeria channel. It was very interesting, tricky enough to show me I need to revise the GIT concepts learned earlier.
+
+I encourage @yahayasm to share his progress for the day!
+___
