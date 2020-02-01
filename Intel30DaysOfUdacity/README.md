@@ -25,3 +25,6 @@ ___
  - Reviewed Ubuntu installation guide: https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_apt.html
  - Planning to install on my local machine tomorrow
 ___
+ ## D7 (01-31-20)
+- Installed OpenCV 4.2 on my computer directly from source after several hours of debugging. Would install OpenVINO tomorrow to begin projects in this course.
+___
