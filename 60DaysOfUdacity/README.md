@@ -302,3 +302,9 @@ ___
 
 I encourage @yahayasm to share his progress for the day!
 ___
+ ## D53 (01-31-20)
+ - Installed OpenCV 4.2 on my computer directly from source after several hours of debugging. Would install OpenVINO tomorrow to begin projects in the Intel Edge AI challenge course.
+ - Particpated in daily quiz in the #sg_nigeria channel. It was very interesting, tricky enough to show me I need to revise the GIT concepts learned earlier.
+
+It's 7 days to the end of the 60DaysOfUdacity challenge. A big thank you to those who have kept me going all this while @Adetoun @Bakare Peace @Benita Ojugo Ekene-Okikere @Bolaji Adetoye @Codedkate @Gabicle @GMike @han4xt @Ifeoma Udoye @innociousBliss @John Key @Kazeem Tijani @Michael Mekuleyi @Mudathir @Onyedikachi Okwa @Tomi Arotiba @Uzodimma @vahiwe @wisestMe. You guys are amazing!
+___
