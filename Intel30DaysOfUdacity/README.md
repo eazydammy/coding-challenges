@@ -28,3 +28,7 @@ ___
  ## D7 (01-31-20)
 - Installed OpenCV 4.2 on my computer directly from source after several hours of debugging. Would install OpenVINO tomorrow to begin projects in this course.
 ___
+ ## D8 (02-01-20)
+- Installed OpenVINO on my computer and did the demo inference tests.
+- Joined the weekly meetup of the #sg_nigeria group. Discussed about plans for our project with OpenVINO Edge AI. 
+___
