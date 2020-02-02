@@ -308,3 +308,9 @@ ___
 
 It's 7 days to the end of the 60DaysOfUdacity challenge. A big thank you to those who have kept me going all this while @Adetoun @Bakare Peace @Benita Ojugo Ekene-Okikere @Bolaji Adetoye @Codedkate @Gabicle @GMike @han4xt @Ifeoma Udoye @innociousBliss @John Key @Kazeem Tijani @Michael Mekuleyi @Mudathir @Onyedikachi Okwa @Tomi Arotiba @Uzodimma @vahiwe @wisestMe. You guys are amazing!
 ___
+ ## D54 (02-01-20)
+ - Installed OpenVINO on my computer and did the demo inference tests.
+ - Particpated in daily quiz in the #sg_nigeria channel. It was very interesting, tricky enough to show me I need to revise the AWS concepts learned earlier.
+
+It's 6 days to the end of the 60DaysOfUdacity challenge. A big thank you to those who have kept me going all this while @Adetoun @Bakare Peace @Benita Ojugo Ekene-Okikere @Bolaji Adetoye @Codedkate @Gabicle @GMike @han4xt @Ifeoma Udoye @innociousBliss @John Key @Kazeem Tijani @Michael Mekuleyi @Mudathir @Onyedikachi Okwa @Tomi Arotiba @Uzodimma @vahiwe @wisestMe. You guys are amazing!
+___
