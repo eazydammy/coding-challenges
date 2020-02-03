@@ -32,3 +32,7 @@ ___
 - Installed OpenVINO on my computer and did the demo inference tests.
 - Joined the weekly meetup of the #sg_nigeria group. Discussed about plans for our project with OpenVINO Edge AI. 
 ___
+ ## D9 (02-02-20)
+- Worked on Project documentation for thr Showcase challenge in the #sg_nigeria group.
+- Reviewed instructions to download pre-trained models on my local computer: https://docs.openvinotoolkit.org/latest/_tools_downloader_README.html
+___
