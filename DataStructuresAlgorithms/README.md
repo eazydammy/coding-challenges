@@ -56,4 +56,19 @@ ___
 - Completed Project Problems P-3.29 to 3.34
 
  ## D16 (01-28-20)
-- Completed Project Problems P-3.23 to 3.27
+- 
+
+ ## D17 (01-29-20)
+- 
+
+ ## D18 (01-30-20)
+- 
+
+ ## D19 (01-31-20)
+- 
+
+ ## D20 (02-01-20)
+- 
+
+ ## D21 (02-02-20)
+- Participated in #StudyJam 3
