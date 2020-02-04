@@ -36,3 +36,6 @@ ___
 - Worked on Project documentation for thr Showcase challenge in the #sg_nigeria group.
 - Reviewed instructions to download pre-trained models on my local computer: https://docs.openvinotoolkit.org/latest/_tools_downloader_README.html
 ___
+ ## D10 (02-03-20)
+- Reviewed research papers on 3D CNNs based on Facebook's paper https://arxiv.org/abs/1412.0767 for the Showcase challenge in the #sg_nigeria group.
+___
