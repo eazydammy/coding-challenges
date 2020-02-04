@@ -72,3 +72,6 @@ ___
 
  ## D21 (02-02-20)
 - Participated in #StudyJam 3
+
+ ## D22 (02-03-20)
+- Read through pages 148-159 of Chapter 4
