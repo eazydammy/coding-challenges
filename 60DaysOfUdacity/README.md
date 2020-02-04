@@ -319,3 +319,9 @@ ___
 
 It's 5 days to the end of the 60DaysOfUdacity challenge. A big thank you to those who have kept me going all this while @Adetoun @Bakare Peace @Benita Ojugo Ekene-Okikere @Bolaji Adetoye @Codedkate @Gabicle @GMike @han4xt @Ifeoma Udoye @innociousBliss @John Key @Kazeem Tijani @Michael Mekuleyi @Mudathir @Onyedikachi Okwa @Tomi Arotiba @Uzodimma @vahiwe @wisestMe. You guys are amazing!
 ___
+ ## D56 (02-03-20)
+ - Learned about _Routing_ in Lesson 21.5 on _Network Infrastructure_
+ - Particpated in daily quiz in the #sg_nigeria channel. It was very interesting and good refresher!
+
+It's 4 days to the end of the 60DaysOfUdacity challenge. A big thank you to those who have kept me going all this while @Adetoun @Bakare Peace @Benita Ojugo Ekene-Okikere @Bolaji Adetoye @Codedkate @Gabicle @GMike @han4xt @Ifeoma Udoye @innociousBliss @John Key @Kazeem Tijani @Michael Mekuleyi @Mudathir @Onyedikachi Okwa @Tomi Arotiba @Uzodimma @vahiwe @wisestMe. You guys are amazing!
+___
