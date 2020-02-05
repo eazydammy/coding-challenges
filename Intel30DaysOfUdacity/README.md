@@ -39,3 +39,7 @@ ___
  ## D10 (02-03-20)
 - Reviewed research papers on 3D CNNs based on Facebook's paper https://arxiv.org/abs/1412.0767 for the Showcase challenge in the #sg_nigeria group.
 ___
+ ## D11 (02-04-20)
+- Reviewed research papers on 3D CNNs based on Facebook's paper https://arxiv.org/abs/1412.0767 for the Showcase challenge in the #sg_nigeria group.
+- Participated in the community #ama_sessions today
+___
