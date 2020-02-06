@@ -43,3 +43,7 @@ ___
 - Reviewed research papers on 3D CNNs based on Facebook's paper https://arxiv.org/abs/1412.0767 for the Showcase challenge in the #sg_nigeria group.
 - Participated in the community #ama_sessions today
 ___
+ ## D12 (02-05-20)
+- Reviewed lesson on _Using the Model Optimizer with ONNX Models_ for the Showcase challenge in the #sg_nigeria group.
+- Read article on how to convert PyTorch model into the ONNX format. https://michhar.github.io/convert-pytorch-onnx/
+___
