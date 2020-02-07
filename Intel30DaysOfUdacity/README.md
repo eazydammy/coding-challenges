@@ -47,3 +47,8 @@ ___
 - Reviewed lesson on _Using the Model Optimizer with ONNX Models_ for the Showcase challenge in the #sg_nigeria group.
 - Read article on how to convert PyTorch model into the ONNX format. https://michhar.github.io/convert-pytorch-onnx/
 ___
+ ## D13 (02-06-20)
+- Reviewed lesson on _Deploying an Edge App_ for the Showcase challenge in the #sg_nigeria group.
+- Read articles on 3D CNNs for the Showcase challenge in the #sg_nigeria group.
+- Updated project documentation for the group
+___
