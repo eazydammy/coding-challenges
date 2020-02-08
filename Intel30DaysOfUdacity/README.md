@@ -52,3 +52,7 @@ ___
 - Read articles on 3D CNNs for the Showcase challenge in the #sg_nigeria group.
 - Updated project documentation for the group
 ___
+ ## D14 (02-07-20)
+- Reviewed articles on 3D CNNs for the Showcase challenge in the #sg_nigeria group.
+- Reviewed project documentation for the group
+___
