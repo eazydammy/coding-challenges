@@ -338,3 +338,8 @@ ___
 
 It's 2 days to the end of the 60DaysOfUdacity challenge for me. A big thank you to those who have kept me going all this while @Adetoun @Bakare Peace @Benita Ojugo Ekene-Okikere @Bolaji Adetoye @Codedkate @Gabicle @GMike @han4xt @Ifeoma Udoye @innociousBliss @John Key @Kazeem Tijani @Michael Mekuleyi @Mudathir @Onyedikachi Okwa @Tomi Arotiba @Uzodimma @vahiwe @wisestMe. You guys are amazing!
 ___
+ ## D59 (02-07-20)
+ - Completed Lesson 22 on _Servers and Security Groups_.
+
+It's 1 MORE DAY to the end of the 60DaysOfUdacity challenge for me! A big thank you to those who have kept me going all this while @Adetoun @Bakare Peace @Benita Ojugo Ekene-Okikere @Bolaji Adetoye @Codedkate @Gabicle @GMike @han4xt @Ifeoma Udoye @innociousBliss @John Key @Kazeem Tijani @Michael Mekuleyi @Mudathir @Onyedikachi Okwa @Tomi Arotiba @Uzodimma @vahiwe @wisestMe. You guys are amazing!
+___
