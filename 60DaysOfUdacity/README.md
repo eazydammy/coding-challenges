@@ -343,3 +343,11 @@ ___
 
 It's 1 MORE DAY to the end of the 60DaysOfUdacity challenge for me! A big thank you to those who have kept me going all this while @Adetoun @Bakare Peace @Benita Ojugo Ekene-Okikere @Bolaji Adetoye @Codedkate @Gabicle @GMike @han4xt @Ifeoma Udoye @innociousBliss @John Key @Kazeem Tijani @Michael Mekuleyi @Mudathir @Onyedikachi Okwa @Tomi Arotiba @Uzodimma @vahiwe @wisestMe. You guys are amazing!
 ___
+ ## D60 (02-08-20)
+ And it's a wrap! 
+ - Completed final Lesson 23 on _Storage and Databases_.
+ - Completed the _Udacity Technology Scholarship_ powered by **Bertelsmann** challenge course!
+ - Completed the #60_days_udacity challenge!
+
+A big thank you to those who have kept me going through this journey @Adetoun @Bakare Peace @Benita Ojugo Ekene-Okikere @Bolaji Adetoye @Codedkate @Gabicle @GMike @han4xt @Ifeoma Udoye @innociousBliss @John Key @Kazeem Tijani @Michael Mekuleyi @Mudathir @Onyedikachi Okwa @Tomi Arotiba @Uzodimma @vahiwe @wisestMe. You guys are amazing! Let's keep doing amazing things!
+___
