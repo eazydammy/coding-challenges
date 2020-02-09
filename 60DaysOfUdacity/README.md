@@ -351,3 +351,4 @@ ___
 
 A big thank you to those who have kept me going through this journey @Adetoun @Bakare Peace @Benita Ojugo Ekene-Okikere @Bolaji Adetoye @Codedkate @Gabicle @GMike @han4xt @Ifeoma Udoye @innociousBliss @John Key @Kazeem Tijani @Michael Mekuleyi @Mudathir @Onyedikachi Okwa @Tomi Arotiba @Uzodimma @vahiwe @wisestMe. You guys are amazing! Let's keep doing amazing things!
 ___
+![Pledge End Badge](images/pledge_end.png)
