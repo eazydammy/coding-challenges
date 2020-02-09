@@ -56,3 +56,7 @@ ___
 - Reviewed articles on 3D CNNs for the Showcase challenge in the #sg_nigeria group.
 - Reviewed project documentation for the group
 ___
+ ## D14 (02-07-20)
+- Participated in the weekly meetup of the #sg_nigeria group. Discussed about plans for our project with OpenVINO Edge AI. 
+- Joined the #study_jam session
+- Joined three webinars today: _Leveraging Deep learning for Internet of Things_ by @Manpasu, _Performance Optimization matters at the Edge_ by @Aswin.Vijayakumar, and _Basic intuition about Neural Nets and intro to Tensorflow_ by @Aditya Nikhil, 
