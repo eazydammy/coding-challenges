@@ -60,3 +60,8 @@ ___
 - Participated in the weekly meetup of the #sg_nigeria group. Discussed about plans for our project with OpenVINO Edge AI. 
 - Joined the #study_jam session
 - Joined three webinars today: _Leveraging Deep learning for Internet of Things_ by @Manpasu, _Performance Optimization matters at the Edge_ by @Aswin.Vijayakumar, and _Basic intuition about Neural Nets and intro to Tensorflow_ by @Aditya Nikhil, 
+___
+ ## D16 (02-09-20)
+- Reviewed project documentation for the Showcase challenge in the #sg_nigeria group.
+- Setup Google Colab notebook for installing framework for model training for group project
+___
