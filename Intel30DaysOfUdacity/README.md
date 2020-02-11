@@ -65,3 +65,7 @@ ___
 - Reviewed project documentation for the Showcase challenge in the #sg_nigeria group.
 - Setup Google Colab notebook for installing framework for model training for group project
 ___
+ ## D17 (02-10-20)
+- Reviewed project documentation for the Showcase challenge in the #sg_nigeria group.
+- Completed model design for group project on Google Colab
+___
