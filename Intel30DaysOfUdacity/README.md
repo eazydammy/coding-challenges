@@ -69,3 +69,7 @@ ___
 - Reviewed project documentation for the Showcase challenge in the #sg_nigeria group.
 - Completed model design for group project on Google Colab
 ___
+ ## D18 (02-11-20)
+- Researched on video loader for preprocessing video dataset for the Showcase challenge in the #sg_nigeria group.
+- Update Google Colab notebook for group project
+___
