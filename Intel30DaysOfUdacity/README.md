@@ -73,3 +73,7 @@ ___
 - Researched on video loader for preprocessing video dataset for the Showcase challenge in the #sg_nigeria group.
 - Update Google Colab notebook for group project
 ___
+ ## D19 (02-12-20)
+- Completed preprocessing video dataset for the Showcase challenge in the #sg_nigeria group.
+- Working on stacking frame sets into dataloader for model training
+___
