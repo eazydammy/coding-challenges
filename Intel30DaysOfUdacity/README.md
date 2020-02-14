@@ -77,3 +77,8 @@ ___
 - Completed preprocessing video dataset for the Showcase challenge in the #sg_nigeria group.
 - Working on stacking frame sets into dataloader for model training
 ___
+ ## D20 (02-13-20)
+- Completed stacking frame sets into dataloader for model training
+- Uploaded preprocessed dataset for the Showcase challenge in the #sg_nigeria group to Drive
+- Started training the model but encountered errors
+___
