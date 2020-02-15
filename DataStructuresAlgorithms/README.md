@@ -75,3 +75,6 @@ ___
 
  ## D22 (02-03-20)
 - Read through pages 148-159 of Chapter 4
+
+ ## D33 (02-14-20)
+- Completed reading Chapter 4
