@@ -82,3 +82,7 @@ ___
 - Uploaded preprocessed dataset for the Showcase challenge in the #sg_nigeria group to Drive
 - Started training the model but encountered errors
 ___
+ ## D21 (02-14-20)
+- Solved trainng errors and completed first training of the detection model
+- Tested the model and got about 87% accuracy
+___
