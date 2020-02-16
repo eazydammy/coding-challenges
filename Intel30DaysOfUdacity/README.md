@@ -88,5 +88,5 @@ ___
 ___
  ## D22 (02-15-20)
 - Participated in the weekly meetup of the #sg_nigeria group. Discussed about progress in our project with OpenVINO Edge AI. 
-- Convert preliminary model to ONNX format
+- Converted preliminary model to ONNX format
 ___
