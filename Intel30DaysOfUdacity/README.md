@@ -86,3 +86,7 @@ ___
 - Solved trainng errors and completed first training of the detection model
 - Tested the model and got about 87% accuracy
 ___
+ ## D22 (02-15-20)
+- Participated in the weekly meetup of the #sg_nigeria group. Discussed about progress in our project with OpenVINO Edge AI. 
+- Convert preliminary model to ONNX format
+___
