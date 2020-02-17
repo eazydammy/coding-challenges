@@ -90,3 +90,8 @@ ___
 - Participated in the weekly meetup of the #sg_nigeria group. Discussed about progress in our project with OpenVINO Edge AI. 
 - Converted preliminary model to ONNX format
 ___
+ ## D23 (02-16-20)
+- Started the Intel OpenVINO toolkit youtube playlist and watched episodes 14 - 17. https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ
+- Read the article by @vahiwe on _Setting up OpenVINO™ in the cloud:_ 
+ https://medium.com/@vahiwe/setting-up-openvino-in-the-cloud-b99599f157eb
+___
