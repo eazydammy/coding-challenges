@@ -95,3 +95,6 @@ ___
 - Read the article by @vahiwe on _Setting up OpenVINO™ in the cloud:_ 
  https://medium.com/@vahiwe/setting-up-openvino-in-the-cloud-b99599f157eb
 ___
+ ## D24 (02-17-20)
+- Continued the Intel OpenVINO toolkit youtube playlist and watched episodes 18 - 28. https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ
+___
