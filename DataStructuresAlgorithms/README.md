@@ -78,3 +78,12 @@ ___
 
  ## D33 (02-14-20)
 - Completed reading Chapter 4
+
+ ## D34 (02-15-20)
+- 
+
+ ## D35 (02-16-20)
+- Completed most of the reinforcement problems in Chapter 4
+
+ ## D36 (02-17-20)
+- Started the creativity problems in Chapter 4
