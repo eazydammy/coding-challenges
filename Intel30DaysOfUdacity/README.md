@@ -98,3 +98,7 @@ ___
  ## D24 (02-17-20)
 - Continued the Intel OpenVINO toolkit youtube playlist and watched episodes 18 - 28. https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ
 ___
+ ## D25 (02-18-20)
+- Continued the Intel OpenVINO toolkit youtube playlist and watched episodes 29 - 36. https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ
+- Started writing documentation for the Showcase challenge
+___
