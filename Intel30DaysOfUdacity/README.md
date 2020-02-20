@@ -102,3 +102,11 @@ ___
 - Continued the Intel OpenVINO toolkit youtube playlist and watched episodes 29 - 36. https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ
 - Started writing documentation for the Showcase challenge
 ___
+ ## D25 (02-18-20)
+- Continued the Intel OpenVINO toolkit youtube playlist and watched episodes 29 - 36. https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ
+- Started writing documentation for the Showcase challenge
+___
+ ## D26 (02-19-20)
+- Continued the Intel OpenVINO toolkit youtube playlist and watched episodes 37 - 55. https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ
+- Ran tests on each saved model state to get state with best testing accuracy for the Showcase challenge
+___
