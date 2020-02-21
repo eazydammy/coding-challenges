@@ -106,3 +106,7 @@ ___
 - Continued the Intel OpenVINO toolkit youtube playlist and watched episodes 37 - 50. https://www.youtube.com/playlist?list=PLDKCjIU5YH6jMzcTV5_cxX9aPHsborbXQ
 - Ran tests on each saved model state to get state with best testing accuracy for the Showcase challenge
 ___
+ ## D27 (02-20-20)
+- Completed most of the project documentation for the Showcase challenge
+- Setup AWS Cloud system to host the project, Installed OpenVINO and Model Optimizer
+___
