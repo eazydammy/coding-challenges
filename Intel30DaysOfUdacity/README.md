@@ -110,3 +110,6 @@ ___
 - Completed most of the project documentation for the Showcase challenge
 - Setup AWS Cloud system to host the project, Installed OpenVINO and Model Optimizer
 ___
+ ## D28 (02-21-20)
+- Began working on inference app for the Showcase challenge
+___
