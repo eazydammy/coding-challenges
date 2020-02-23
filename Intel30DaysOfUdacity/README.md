@@ -113,3 +113,7 @@ ___
  ## D28 (02-21-20)
 - Began working on inference app for the Showcase challenge
 ___
+ ## D29 (02-22-20)
+- Continued working on inference app for the Showcase challenge
+- Setting up input pre-processing for model inference
+___
