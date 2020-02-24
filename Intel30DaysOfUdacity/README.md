@@ -117,3 +117,8 @@ ___
 - Continued working on inference app for the Showcase challenge
 - Setting up input pre-processing for model inference
 ___
+ ## D30 (02-23-20)
+- Completed input pre-processing for model inference
+- Completed inference app for the Showcase challenge
+- Completed the Intel Edge AI #30DaysofUdacity challenge
+___
