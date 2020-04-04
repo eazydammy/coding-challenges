@@ -1,7 +1,30 @@
-## 30DaysLeetcoding Challenge
+# 30DaysLeetcoding Challenge
 
-## Day 1
+## Week 1: April 1st–April 7th
+
+* Day 1 - [Array] #136 - Easy - Single Number
+
+* Day 2 - [Math] #202 - Easy - Happy Number
+
+* Day 3 - [DP] #53 - Easy - Maximum Subarray
+
+## Week 2: April 8th–April 14th
+
+## Week 3: April 15th–April 21st
+
+## Week 4: April 22nd–April 28th
+
+## Week 5: April 29th–April 30th
 
 
-## Day 2
-Happy Number
+
+
+### By Category
+
+* String
+
+* Array
+
+* Matrix
+
+* Linked List
