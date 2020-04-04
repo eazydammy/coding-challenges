@@ -8,6 +8,8 @@
 
 * Day 3 - [DP] #53 - Easy - Maximum Subarray
 
+* Day 4 - [Array] #283 - Easy - Move Zeroes
+
 ## Week 2: April 8th–April 14th
 
 ## Week 3: April 15th–April 21st
