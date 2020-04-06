@@ -10,6 +10,8 @@
 
 * Day 4 - [Array] #283 - Easy - Move Zeroes
 
+* Day 5 - [Array] #122 - Easy - Best Time to Buy and Sell Stock II
+
 ## Week 2: April 8th–April 14th
 
 ## Week 3: April 15th–April 21st
