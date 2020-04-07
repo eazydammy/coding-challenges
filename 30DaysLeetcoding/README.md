@@ -12,6 +12,8 @@
 
 * Day 5 - [Array] #122 - Easy - Best Time to Buy and Sell Stock II
 
+* Day 6 - [Strings] #49 - Medium - Group Anagrams
+
 ## Week 2: April 8th–April 14th
 
 ## Week 3: April 15th–April 21st
@@ -19,9 +21,6 @@
 ## Week 4: April 22nd–April 28th
 
 ## Week 5: April 29th–April 30th
-
-
-
 
 ### By Category
 
