@@ -18,6 +18,8 @@
 
 ## Week 2: April 8th–April 14th
 
+* Day 8 - [Linked List] #876 - Easy - Middle of the Linked List
+
 ## Week 3: April 15th–April 21st
 
 ## Week 4: April 22nd–April 28th
