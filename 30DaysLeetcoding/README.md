@@ -14,6 +14,8 @@
 
 * Day 6 - [Strings] #49 - Medium - Group Anagrams
 
+* Day 7 - [Array] # - Easy - Counting Elements [new question]
+
 ## Week 2: April 8th–April 14th
 
 ## Week 3: April 15th–April 21st
