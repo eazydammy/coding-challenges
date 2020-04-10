@@ -22,6 +22,8 @@
 
 * Day 9 - [String] #844 - Easy - Backspace String Compare
 
+* Day 10 - [Stack] #155 - Easy - Min Stack
+
 ## Week 3: April 15th–April 21st
 
 ## Week 4: April 22nd–April 28th
