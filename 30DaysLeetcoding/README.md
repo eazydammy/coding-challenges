@@ -24,6 +24,8 @@
 
 * Day 10 - [Stack] #155 - Easy - Min Stack
 
+* Day 11 - [BST] #543 - Easy - Diameter of Binary Tree
+
 ## Week 3: April 15th–April 21st
 
 ## Week 4: April 22nd–April 28th
