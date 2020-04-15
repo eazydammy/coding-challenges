@@ -30,6 +30,8 @@
 
 * Day 13 - [Array] #525 - Medium - Contiguous Array
 
+* Day 14 - [String] # - Easy - Perform String Shifts [new question]
+
 ## Week 3: April 15th–April 21st
 
 ## Week 4: April 22nd–April 28th
