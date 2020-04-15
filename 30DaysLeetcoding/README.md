@@ -28,6 +28,8 @@
 
 * Day 12 - [Array] #1046 - Easy - Last Stone Weight
 
+* Day 13 - [Array] #525 - Medium - Contiguous Array
+
 ## Week 3: April 15th–April 21st
 
 ## Week 4: April 22nd–April 28th
