@@ -36,7 +36,9 @@
 
 * Day 15 - [Array] #238 - Medium - Product of Array Except Self
 
-* Day 16 - [String] #678 - Valid Parenthesis String
+* Day 16 - [String] #678 - Medium - Valid Parenthesis String
+
+* Day 17 - [Array] #200 - Medium - Number of Islands
 
 ## Week 4: April 22nd–April 28th
 
