@@ -40,6 +40,8 @@
 
 * Day 17 - [Array] #200 - Medium - Number of Islands
 
+* Day 18 - [Array] #62 - Medium - Minimum Path Sum
+
 ## Week 4: April 22nd–April 28th
 
 ## Week 5: April 29th–April 30th
