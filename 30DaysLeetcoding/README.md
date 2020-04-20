@@ -42,6 +42,8 @@
 
 * Day 18 - [Array] #62 - Medium - Minimum Path Sum
 
+* Day 19 - [Array] #33 - Medium - Search in Rotated Sorted Array
+
 ## Week 4: April 22nd–April 28th
 
 ## Week 5: April 29th–April 30th
