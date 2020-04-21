@@ -24,7 +24,7 @@
 
 * Day 10 - [Stack] #155 - Easy - Min Stack
 
-* Day 11 - [BST] #543 - Easy - Diameter of Binary Tree
+* Day 11 - [Tree] #543 - Easy - Diameter of Binary Tree
 
 * Day 12 - [Array] #1046 - Easy - Last Stone Weight
 
@@ -43,6 +43,8 @@
 * Day 18 - [Array] #62 - Medium - Minimum Path Sum
 
 * Day 19 - [Array] #33 - Medium - Search in Rotated Sorted Array
+
+* Day 20 - [Tree] #1008 - Medium - Construct Binary Search Tree from Preorder Traversal
 
 ## Week 4: April 22nd–April 28th
 
