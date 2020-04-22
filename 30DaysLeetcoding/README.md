@@ -46,6 +46,8 @@
 
 * Day 20 - [Tree] #1008 - Medium - Construct Binary Search Tree from Preorder Traversal
 
+* Day 21 - [Matrix] # - Easy - Leftmost Column with at Least a One [new question]
+
 ## Week 4: April 22nd–April 28th
 
 ## Week 5: April 29th–April 30th
