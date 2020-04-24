@@ -2,7 +2,7 @@
 
 ## Week 1: April 1st–April 7th
 
-* Day 1 - [Array] #136 - Easy - Single Number
+* Day 1 - [Bit-Manipulation] #136 - Easy - Single Number
 
 * Day 2 - [Math] #202 - Easy - Happy Number
 
@@ -51,6 +51,8 @@
 ## Week 4: April 22nd–April 28th
 
 * Day 22 - [Array] #560 - Medium - Subarray Sum Equals K
+
+* Day 23 - [Bit-Manipulation] #201 - Medium - Bitwise AND of Numbers Range
 
 ## Week 5: April 29th–April 30th
 
