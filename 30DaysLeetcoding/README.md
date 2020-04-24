@@ -50,6 +50,8 @@
 
 ## Week 4: April 22nd–April 28th
 
+* Day 22 - [Array] #560 - Medium - Subarray Sum Equals K
+
 ## Week 5: April 29th–April 30th
 
 ### By Category
