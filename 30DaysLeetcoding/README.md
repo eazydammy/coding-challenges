@@ -56,6 +56,8 @@
 
 * Day 24 - [Design] #146 - Medium - LRU Cache
 
+* Day 25 - [DP] #55 - Medium - Jump Game
+
 ## Week 5: April 29th–April 30th
 
 ### By Category
