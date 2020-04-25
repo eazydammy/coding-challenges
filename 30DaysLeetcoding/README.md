@@ -54,6 +54,8 @@
 
 * Day 23 - [Bit-Manipulation] #201 - Medium - Bitwise AND of Numbers Range
 
+* Day 24 - [Design] #146 - Medium - LRU Cache
+
 ## Week 5: April 29th–April 30th
 
 ### By Category
