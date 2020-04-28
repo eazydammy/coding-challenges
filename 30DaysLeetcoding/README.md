@@ -58,6 +58,10 @@
 
 * Day 25 - [DP] #55 - Medium - Jump Game
 
+* Day 26 - [DP] #1143 - Longest Common Subsequence
+
+* Day 27 - [DP] #221 - Medium - Maximal Square
+
 ## Week 5: April 29th–April 30th
 
 ### By Category
