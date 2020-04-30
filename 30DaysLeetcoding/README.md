@@ -62,7 +62,11 @@
 
 * Day 27 - [DP] #221 - Medium - Maximal Square
 
+* Day 28 - [DP] # - Medium - First Unique Number [new question]
+
 ## Week 5: April 29th–April 30th
+
+* Day 29 - [Tree] #124 - Hard - Binary Tree Maximum Path Sum
 
 ### By Category
 
