@@ -68,6 +68,8 @@
 
 * Day 29 - [Tree] #124 - Hard - Binary Tree Maximum Path Sum
 
+* Day 30 - [Tree] # - Medium - Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree [new question]
+
 ### By Category
 
 * String
