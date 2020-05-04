@@ -6,6 +6,8 @@
 
 * Day 2 - [HashTable] - #771 - Easy - Jewels and Stones
 
+* Day 3 - [String] - #383 - Easy - Ransom Notes
+
 ## Week 2: April 8th–April 14th
 
 ## Week 3: April 15th–April 21st
