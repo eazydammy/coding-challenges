@@ -6,7 +6,9 @@
 
 * Day 2 - [HashTable] - #771 - Easy - Jewels and Stones
 
-* Day 3 - [String] - #383 - Easy - Ransom Notes
+* Day 3 - [String] - #383 - Easy - Ransom Note
+
+* Day 4 - [BitManipulation] - #476 - Easy - Number Complement
 
 ## Week 2: April 8th–April 14th
 
