@@ -10,6 +10,10 @@
 
 * Day 4 - [BitManipulation] - #476 - Easy - Number Complement
 
+* Day 5 - [HashTable] - #387 - Easy - First Unique Character in a String
+
+* Day 6 - [Array, DivideAndConquer, BitManipulation] - #169 - Easy - Majority Element
+
 ## Week 2: April 8th–April 14th
 
 ## Week 3: April 15th–April 21st
