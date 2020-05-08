@@ -14,6 +14,8 @@
 
 * Day 6 - [Array, DivideAndConquer, BitManipulation] - #169 - Easy - Majority Element
 
+* Day 7 - [Tree, BFS] - #993 - Easy - Cousins in Binary Tree
+
 ## Week 2: April 8th–April 14th
 
 ## Week 3: April 15th–April 21st
